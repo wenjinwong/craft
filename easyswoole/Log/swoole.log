@@ -1,0 +1,818 @@
+[2019-05-05 14:30:49 $5221.0]	WARNING	swManager_check_exit_status: worker#1[pid=5232] abnormal exit, status=255, signal=0
+[2019-05-05 14:31:20 $5221.0]	WARNING	swManager_check_exit_status: worker#1[pid=5252] abnormal exit, status=255, signal=0
+[2019-05-05 14:45:10 $5221.0]	WARNING	swManager_check_exit_status: worker#1[pid=5278] abnormal exit, status=255, signal=0
+[2019-05-05 14:51:37 $6453.0]	WARNING	swManager_check_exit_status: worker#1[pid=6464] abnormal exit, status=255, signal=0
+[2019-05-05 14:51:42 $6453.0]	WARNING	swManager_check_exit_status: worker#1[pid=6474] abnormal exit, status=255, signal=0
+[2019-05-05 14:59:24 $6801.0]	WARNING	swManager_check_exit_status: worker#1[pid=6812] abnormal exit, status=255, signal=0
+[2019-05-05 15:11:01 $7680.0]	WARNING	swManager_check_exit_status: worker#1[pid=7691] abnormal exit, status=255, signal=0
+[2019-05-05 15:28:42 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=8644] abnormal exit, status=255, signal=0
+[2019-05-05 15:28:57 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8643] abnormal exit, status=255, signal=0
+[2019-05-05 15:28:58 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8810] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:01 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8812] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:04 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8815] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:08 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8819] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:09 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8823] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:10 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8825] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:11 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8827] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:12 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8829] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8831] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:14 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8832] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:15 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8834] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:16 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8836] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:17 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8838] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:18 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8840] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:19 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8841] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:20 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8843] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:21 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8845] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:22 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8847] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:23 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8849] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:24 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8850] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:25 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8852] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:26 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8854] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:27 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8864] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:28 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8866] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:29 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8867] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:30 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8869] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:30 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8871] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:31 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8872] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:31 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8874] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8875] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8876] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8877] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8878] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8880] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:32 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8881] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:33 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8882] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:33 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8883] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:34 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8884] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:35 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8886] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:36 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8888] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:37 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8890] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8892] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8893] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8894] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:39 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8895] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:39 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8897] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:40 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8898] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:41 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8900] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:42 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8902] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:43 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8904] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:44 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8905] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:45 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8907] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:46 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8909] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:47 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8911] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:48 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8913] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:49 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8914] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:50 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8916] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:51 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8918] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:52 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8920] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:53 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8922] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:54 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8923] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:55 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8925] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:56 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8927] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:57 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8929] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:58 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8931] abnormal exit, status=255, signal=0
+[2019-05-05 15:29:59 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8932] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:00 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8934] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:01 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8936] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:02 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8944] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:03 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8946] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:04 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8948] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:05 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8949] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:06 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8951] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:07 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8953] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:08 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8955] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:09 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8957] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:10 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8958] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:11 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8960] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:12 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8962] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8964] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:14 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8966] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:15 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8967] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:16 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8969] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:17 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8972] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:18 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8974] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:19 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8976] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:20 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8977] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:21 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8979] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:22 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8981] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=8797] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9001] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9002] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9003] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9004] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9005] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9006] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9007] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9008] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9009] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9010] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9011] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9012] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:34 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9013] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:35 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9015] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:35 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9016] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:35 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9017] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9018] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9020] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9021] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9022] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9023] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9024] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9025] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9026] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9027] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9028] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9029] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9030] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9031] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9032] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9033] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9034] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9035] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9036] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9037] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9038] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9039] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:36 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9040] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9041] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9042] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9043] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9044] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9045] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9046] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9047] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9048] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9049] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9050] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9051] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9052] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9053] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9054] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9055] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9056] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9057] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9058] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9059] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9060] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9061] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9062] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9064] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9065] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9066] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9067] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9068] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9069] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9070] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9071] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9072] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9073] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9074] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9075] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9076] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9077] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9078] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9079] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9080] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9081] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9082] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9083] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9084] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9085] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9086] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9087] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9088] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9089] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9090] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9091] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9092] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9093] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9094] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9095] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9096] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9097] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9098] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:37 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9099] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:38 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9100] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:38 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9101] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:43 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9102] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:48 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9107] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:53 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9112] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:58 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9117] abnormal exit, status=255, signal=0
+[2019-05-05 15:30:58 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=8983] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:03 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9122] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:08 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9123] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:08 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9128] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9133] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:13 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9134] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:18 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9139] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:18 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9140] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:23 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9145] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:23 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9146] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:28 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9151] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:28 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9152] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:33 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9165] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9166] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9171] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:38 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9172] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:43 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9177] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:43 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9178] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:48 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9183] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:48 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9184] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:53 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9189] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:53 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9190] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:58 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9195] abnormal exit, status=255, signal=0
+[2019-05-05 15:31:58 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9196] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:03 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9201] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:03 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9202] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:08 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9207] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:08 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9208] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9213] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:13 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9214] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:18 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9219] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:18 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9220] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:23 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9225] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:23 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9226] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:28 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9231] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:28 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9232] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:33 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9245] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9246] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9251] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:38 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9252] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:43 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9257] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:43 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9258] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:48 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9263] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:48 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9264] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:53 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9269] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:53 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9270] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:58 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9275] abnormal exit, status=255, signal=0
+[2019-05-05 15:32:58 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9276] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:03 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9281] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:03 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9282] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:08 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9287] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:08 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9288] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:11 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9293] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:12 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9298] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9300] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9301] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:13 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9294] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:13 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9302] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:18 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9305] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:18 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9303] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:23 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9309] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:23 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9310] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:28 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9315] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:28 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9316] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:33 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9329] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:33 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9330] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:38 $8631.0]	WARNING	swManager_check_exit_status: worker#2[pid=9335] abnormal exit, status=255, signal=0
+[2019-05-05 15:33:38 $8631.0]	WARNING	swManager_check_exit_status: worker#3[pid=9336] abnormal exit, status=255, signal=0
+[2019-05-05 15:46:08 $10049.0]	WARNING	swManager_check_exit_status: worker#2[pid=10061] abnormal exit, status=255, signal=0
+[2019-05-05 15:46:09 $10049.0]	WARNING	swManager_check_exit_status: worker#2[pid=10077] abnormal exit, status=255, signal=0
+[2019-05-05 15:46:09 $10049.0]	WARNING	swManager_check_exit_status: worker#2[pid=10078] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:03 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10062] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:09 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10132] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:10 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10138] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:10 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10139] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:12 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10141] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:13 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10143] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:13 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10145] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:14 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10146] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:14 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10147] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:14 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10149] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:14 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10150] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:14 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10151] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10152] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10153] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10154] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10155] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10156] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:15 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10158] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:16 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10159] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:16 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10160] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:16 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10161] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:16 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10162] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:17 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10163] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:21 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10165] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:21 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10169] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:22 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10171] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:22 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10172] abnormal exit, status=255, signal=0
+[2019-05-05 15:47:23 $10049.0]	WARNING	swManager_check_exit_status: worker#3[pid=10173] abnormal exit, status=255, signal=0
+[2019-05-19 14:18:21 *25653.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25652.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25651.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25650.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25649.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25648.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25647.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 *25646.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25645.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25644.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25643.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25642.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25641.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25640.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25639.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 ^25638.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 $25636.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-19 14:18:21 #25635.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-22 08:46:42 #25635.1]	INFO	Server is shutdown now
+[2019-05-24 15:00:56 *12118.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12118.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12116.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12116.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 $12102.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 $12102.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12115.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12115.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12114.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12114.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12113.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12113.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12112.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12112.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12111.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12111.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12110.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12110.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12109.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12109.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12108.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12108.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12107.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12107.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12106.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12106.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12105.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12105.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12104.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 ^12104.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 #12100.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 #12100.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 #12100.1]	INFO	Server is shutdown now
+[2019-05-24 15:00:56 *12119.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12119.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12117.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 *12117.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-24 15:00:56 $12102.0]	WARNING	swManager_loop(:508): waitpid(12112) failed, Error: No child processes[10]
+[2019-05-29 10:03:01 *14123.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14122.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14121.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14120.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14119.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14118.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14117.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 *14116.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14115.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14114.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14113.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14112.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14111.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14110.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14109.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 ^14108.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 $14106.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-05-29 10:03:01 #14105.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:04:24 #14105.1]	INFO	Server is shutdown now
+[2019-06-05 14:32:34 *22678.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22677.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22676.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22675.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22674.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22673.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22672.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 *22671.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22670.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22669.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22668.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22667.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22666.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22665.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22664.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 ^22663.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 $22661.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:32:34 #22660.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-05 14:40:49 $22661.0]	WARNING	swManager_check_exit_status: worker#3[pid=22674] abnormal exit, status=255, signal=0
+[2019-06-05 14:41:04 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=22676] abnormal exit, status=255, signal=0
+[2019-06-05 14:41:04 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=24749] abnormal exit, status=255, signal=0
+[2019-06-05 14:43:51 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=24750] abnormal exit, status=255, signal=0
+[2019-06-05 14:44:24 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=24900] abnormal exit, status=255, signal=0
+[2019-06-05 14:44:37 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=24936] abnormal exit, status=255, signal=0
+[2019-06-05 14:44:46 $22661.0]	WARNING	swManager_check_exit_status: worker#5[pid=24947] abnormal exit, status=255, signal=0
+[2019-06-05 14:45:00 $22661.0]	WARNING	swManager_check_exit_status: worker#6[pid=22677] abnormal exit, status=255, signal=0
+[2019-06-05 14:45:01 $22661.0]	WARNING	swManager_check_exit_status: worker#6[pid=24968] abnormal exit, status=255, signal=0
+[2019-06-05 15:19:23 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:23 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:25 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:25 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:32 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:32 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:33 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:33 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:39 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:39 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:40 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:41 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:41 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:41 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:41 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:45 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:45 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:46 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:47 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:19:48 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:02 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:02 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:02 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:02 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:42 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:43 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:20:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:20:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:44 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:45 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:45 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:54 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:54 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:55 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:55 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:56 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:56 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:21:56 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:21:56 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:09 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:09 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:10 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:11 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:12 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:12 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:12 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:12 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:23 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:23 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 15:22:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 15:22:24 *24969.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 16:28:28 $22661.0]	WARNING	swManager_check_exit_status: worker#2[pid=22673] abnormal exit, status=255, signal=0
+[2019-06-05 16:29:23 $22661.0]	WARNING	swManager_check_exit_status: worker#2[pid=30939] abnormal exit, status=255, signal=0
+[2019-06-05 16:29:38 $22661.0]	WARNING	swManager_check_exit_status: worker#7[pid=22678] abnormal exit, status=255, signal=0
+[2019-06-05 16:29:39 $22661.0]	WARNING	swManager_check_exit_status: worker#7[pid=31010] abnormal exit, status=255, signal=0
+[2019-06-05 16:30:52 $22661.0]	WARNING	swManager_check_exit_status: worker#7[pid=31011] abnormal exit, status=255, signal=0
+[2019-06-05 16:30:58 $22661.0]	WARNING	swManager_check_exit_status: worker#7[pid=31085] abnormal exit, status=255, signal=0
+[2019-06-05 16:51:53 *31091.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-05 16:51:53 *31091.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 16:51:53 *31091.7]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 16:51:58 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-05 16:51:58 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 16:51:58 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-05 16:52:33 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-05 16:52:33 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-05 16:52:33 *22671.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:25 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:25 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:25 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:23:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:23:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:23:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:27:15 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:27:15 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:27:15 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:27:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:27:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:27:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:16 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:16 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:16 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:17 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:19 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:24 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:24 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:24 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:27 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:27 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:27 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:28 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:29 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:30 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:31 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:32 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:33 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:34 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:35 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:36 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:37 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:38 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:39 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:40 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:41 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=47] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=16] is closed
+[2019-06-06 09:28:42 *30992.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 8 byte failed, because connection[fd=19] is closed
+[2019-06-06 11:01:33 #22660.1]	INFO	Server is shutdown now
+[2019-06-06 16:04:33 #11653.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 #11653.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 #11653.1]	INFO	Server is shutdown now
+[2019-06-06 16:04:33 ^11656.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11656.8]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11657.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11657.9]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11658.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11658.10]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11659.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11659.11]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11660.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11660.12]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11661.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11661.13]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11662.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11662.14]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11663.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 ^11663.15]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11664.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11664.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11665.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11665.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11666.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11666.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11667.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11667.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11668.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11668.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11669.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11669.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11670.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11670.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11671.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 *11671.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 $11654.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-06-06 16:04:33 $11654.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
